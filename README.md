@@ -27,5 +27,3 @@ Install Dependencies: `npm install`
 Start the Application: `npm start`
 Access the App: Open your browser and go to http://localhost:3000
 
-# aaa
-# django_crud
